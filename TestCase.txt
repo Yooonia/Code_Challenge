@@ -1,0 +1,10 @@
+Check if the website can be loaded by using different browsers.
+Check if the page load time is within the acceptable range.
+Check results on entering valid Username and Password
+Check results on entering invalid Username and Password
+Check if the items can be added to cart.
+Check if the price, quantity and total are correct when adding multiple products.
+Check if the quantity and total will updated when remove any items.
+Check if the cart is empty after click ‘Empty Cart’
+Validate all the required informatiom(marked with *) have been filled in before the submit button been enabled.
+Validate the card number and card type.
